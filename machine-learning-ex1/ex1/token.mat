@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Created by Octave 4.2.2, Wed Apr 18 17:15:06 2018 GMT <unknown@unknown>
 # name: email
 # type: sq_string
@@ -14,20 +13,3 @@ nargund.shreyas@gmail.com
 VruApGUGixZ3iokt
 
 
-=======
-# Created by Octave 4.2.2, Wed Apr 18 17:15:06 2018 GMT <unknown@unknown>
-# name: email
-# type: sq_string
-# elements: 1
-# length: 25
-nargund.shreyas@gmail.com
-
-
-# name: token
-# type: sq_string
-# elements: 1
-# length: 16
-VruApGUGixZ3iokt
-
-
->>>>>>> 323e184ce581b35eca236a7ca3be00d4419fd9d8
